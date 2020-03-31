@@ -1,0 +1,34 @@
+{
+  "name": "google-drive-fs",
+  "version": "1.0.0",
+  "description": "A simple API to create, read and delete folders, shared folderd (Team Drive) and files on Google Drive API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemissel/google-drive-fs.git"
+  },
+  "keywords": [
+    "google",
+    "drive",
+    "api",
+    "file",
+    "upload",
+    "download",
+    "folder",
+    "team",
+    "drive",
+    "shared"
+  ],
+  "author": "Leandro Missel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemissel/google-drive-fs/issues"
+  },
+  "homepage": "https://github.com/lemissel/google-drive-fs#readme",
+  "dependencies": {
+    "googleapis": "^48.0.0"
+  }
+}
