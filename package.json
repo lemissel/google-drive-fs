@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/lemissel/google-drive-fs#readme",
   "dependencies": {
-    "googleapis": "^48.0.0"
+    "googleapis": "^67.0.0"
   }
 }
